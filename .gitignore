@@ -22,3 +22,4 @@ Thumbs.db
 # Output transcripts and text files
 output/
 transcripts/ 
+.env
